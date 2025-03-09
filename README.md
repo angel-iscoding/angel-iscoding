@@ -1,4 +1,10 @@
-</h1>
+
+  <a href="https://github.com/angel-iscoding/angel-iscoding/blob/main/rain.gif">
+    <img src="https://github.com/angel-iscoding/angel-iscoding/blob/main/rain.gif" alt="Rain GIF" style="width:auto; height:auto;"/>
+  </a>
+
+
+
 <h1 align="center">¡Hola! I'm Angel Afanador 🫡</h1>
 
 <h4 align="left">🌟I work on Back-end and web development. I'm also focusing on Math Science and AI/Data Science. I'm currently working on my programming skills, also exploring the IT field to gain immense knowledge.</h4>
