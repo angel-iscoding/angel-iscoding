@@ -1,87 +1,54 @@
-<div align="center">
-  <img height="auto" src="https://github.com/angel-iscoding/angel-iscoding/blob/main/rain.gif"  />
+<h2 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey Everyone , I'm Angel</h2>
+
+<p align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto,sans-serif&size=40&pause=1000&color=40c463&center=true&vCenter=true&random=false&width=1200&lines=%F0%9F%92%BB+%22Crafting+Code%2C+Building+Dreams%22;+%F0%9F%92%BB+Welcome+to+My+GitHub+Universe!)](https://git.io/typing-svg)
+</p>
+
+
+
+<img align="right" alt="Coding" width="300" src="image.png">
+
+- 👨‍💻 Specialized in the development of high-performance microservices.
+- 📖 Focused on learning and improving
+- 🛠️ Enjoy working on a variety of projects
+- 👥 Open to collaboration
+- 🔧 Offering API development services, database integration (SQL/NoSQL) and cloud deployment.
+
+
+<div align="start">
+
+  ![](https://komarev.com/ghpvc/?username=angel-iscoding&style=flat&color=brightgreen)
+
 </div>
 
-<h1 align="center">¡Hola! I'm Angel Afanador 🫡</h1>
+<div align="start">
+  
+<a href="angel.iscoding@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335.svg?logo=Gmail&logoColor=white"></a>
 
-<h4 align="left">🌟I work on Back-end and web development. I'm also focusing on Math Science and AI/Data Science. I'm currently working on my programming skills, also exploring the IT field to gain immense knowledge.</h4>
-
-<h2>💫 About Me</h2>
 
 <div align="center">
-<a href="https://github.com/angel-iscoding">
-  <img width="150px" 
-       src="https://komarev.com/ghpvc/?username=angel-iscoding&label=Profile%20views&color=318CE7&style=for-the-badge" 
-       alt="Profile views" /></a>
-<a href="https://api.github-star-counter.workers.dev/user/angel-iscoding">
-  <img width="115px" 
-       alt="Total stars" 
-       title="Total stars on GitHub" 
-       src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=318CE7&labelColor=505050&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/angel-iscoding" /></a>
-<a href="https://github.com/angel-iscoding?tab=followers">
-  <img width="147px" 
-       alt="Followers" 
-       title="Follow me on GitHub" 
-       src="https://custom-icon-badges.herokuapp.com/github/followers/angel-iscoding?color=318CE7&labelColor=505050&style=for-the-badge&logo=person-add&label=Followers&logoColor=white" /></a>
- </div>
 
-<h4>
-🌱 I am currently working on and developing my programming skills.</br>
- 🔭 I worked on .Nest.js Framework and Hands on experience in Full Stack.</br>
- 💬 Ask me about Next.js, Full Stack Development, Java.</br>
- ⚡ Interest in Artifical Intelligence, Machine Learning, Deep Learning, Data Science, Automation, Math Science.</br>
- ✨ I only like perfection.</h4>
- </h4>
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=angel-iscoding&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=angel-iscoding&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=angel-iscoding&theme=github_dark&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=angel-iscoding&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=angel-iscoding&theme=github_dark)
+<p align="center">
+  <img alig src="https://github-profile-trophy.vercel.app/?username=angel-iscoding&theme=onedark&column=-1&title=Repositories,Stars,Commits,Followers,PullRequest,MultipleLang&margin-w=10" />
+</p>
 
- 
-<!--
-**angel-iscoding/angel-iscoding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=angel-iscoding&bg_color=0d1117&color=ffffff&line=40c463&point=fff7e0&area=true&hide_border=true)](https://github.com/angel-iscoding/github-readme-activity-graph)
 
-
-
-<h1 align="left">Hey 👋 What's up?</h1>
-
-###
-
-<p align="left">My name is ... and I'm a ..., from ....</p>
-
-###
-
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
-
-###
-
-<h2 align="left">I code with</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
 </div>
 
-###
+---
 
-<div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
-</div>
 
-###
--->
+<p align="left">
+<a href="https://github.com/angel-iscoding?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
+  
+<span style="color:#40c463; font-family: Roboto, sans-serif;"><b>Note: </b>My public work doesn’t fully reflect my experience or skill level. I share it to document what I’ve learned and to help others with useful resources. 
+My true work is in private repos.</span>  
+</p>
+
